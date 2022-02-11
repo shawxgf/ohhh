@@ -1,1 +1,2 @@
 apple is my favorite fruite.
+edit in hot_fix branch.
