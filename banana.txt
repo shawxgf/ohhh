@@ -1,1 +1,2 @@
 banana is goood for health.
+This is a new record in branch_1.
