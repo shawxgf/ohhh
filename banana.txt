@@ -1,2 +1,6 @@
 banana is goood for health.
+<<<<<<< HEAD
 This is a new record in master branch.
+=======
+This is a new record in branch_1.
+>>>>>>> branch_1
